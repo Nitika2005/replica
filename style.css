@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+.sidebar{
+    height: 100vh;
+    width: 300px;
+    background-color: rgba(231,229,224,0.434);
+}
+.zindagi{
+    display: flex;
+                 justify-content:  space-evenly;
+}
+.duniya{
+    display:flex;
+           justify-content: space-evenly;
+}
+.mubarak{
+    display :flex;
+          justify-content:space-evenly ;
+
+}
+
